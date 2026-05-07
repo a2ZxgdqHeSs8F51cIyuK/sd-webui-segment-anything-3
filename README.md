@@ -1,5 +1,6 @@
 # sd-webui-segment-anything-3
 An update of the sd-webui-segment-anything extension (https://github.com/continue-revolution/sd-webui-segment-anything) using SAM3 and updated to work with ForgeNEO
+
 SAM 2 Version for ReForge: https://github.com/a2ZxgdqHeSs8F51cIyuK/sd-webui-segment-anything-2/
 
 Necessary downloads:
