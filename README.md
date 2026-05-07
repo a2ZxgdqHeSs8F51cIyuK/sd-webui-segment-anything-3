@@ -8,4 +8,4 @@ Necessary downloads:
 Things that don't work yet:
 - Point prompts
 - Controlnet is not tested at all
-- Automatically grabbing the inpaint image if no separate segmenting image is provided doesn't work at the moment
+- Automatically grabbing the inpaint image if no separate image is provided in the extension's menu doesn't work at the moment
